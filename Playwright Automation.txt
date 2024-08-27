@@ -1,2 +1,7 @@
 https://github.com/andrewbayd/playwright-page-object
 https://github.com/codewithmmak/playwright-javascript#start-of-content
+
+https://www.youtube.com/watch?v=KSzmCo9xxVs&list=PLhW3qG5bs-L9sJKoT1LC5grGT77sfW0Z8&index=8
+https://www.youtube.com/watch?v=2poXBtifpzA
+https://www.youtube.com/watch?v=yOuElUSfAs8&list=PLUDwpEzHYYLsw33jpra65LIvX1nKWpp7-
+https://www.youtube.com/watch?v=gjHEApRdFV4&list=PL699Xf-_ilW7EyC6lMuU4jelKemmS6KgD&index=31
